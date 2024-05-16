@@ -5,7 +5,7 @@ Hi there, I'm Thanh
 </h3>
 
 <h2 align="center">
-I'm a Designer 🎨, I started learning to code Front-end Web 💻 !
+I started learning to code Front-end Web 💻 !
 </h2> 
 
 ## 💼 Technical Skills
