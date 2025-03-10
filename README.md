@@ -7,3 +7,40 @@ Hi there, I'm Thanh
 <h2 align="center">
 I am developer web 💻 !
 </h2> 
+
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white&color=ea580c)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/ShadcnUI-blue.svg?style=flat-square&logo=shadcnui&logoColor=black&color=d1d5db)
+![TailwindCss](https://img.shields.io/badge/TailwindCSS-blue.svg?style=flat-square&logo=tailwindcss&logoColor=blue&color=bae6fd)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+<br><br>
+![React](https://img.shields.io/badge/React-%230081CB.svg?style=flat-square&logo=react&logoColor=%2361DAFB&color=bae6fd)
+![Nextjs](https://img.shields.io/badge/Nextjs-blue.svg?style=flat-square&logo=nextdotjs&logoColor=white&color=1e293b)
+![Redux](https://img.shields.io/badge/Redux-blue.svg?style=flat-square&logo=redux&logoColor=white&color=9333ea)
+![Axios](https://img.shields.io/badge/Axios-blue.svg?style=flat-square&logo=axios&logoColor=white&color=6b21a8)
+![TanStack Query](https://img.shields.io/badge/TanStackQuery-blue.svg?style=flat-square&logo=reactquery&logoColor=fde047&color=059669)
+![React-hook-form](https://img.shields.io/badge/ReactHookForm-blue.svg?style=flat-square&logo=reacthookform&logoColor=white&color=ec4899)
+<br><br>
+![Node.js](https://img.shields.io/badge/Nodejs-blue.svg?style=flat-square&logo=nodedotjs&logoColor=white&color=16a34a)
+![Express.js](https://img.shields.io/badge/Expressjs-blue.svg?style=flat-square&logo=express&logoColor=white&color=b91c1c)
+![Nest.js](https://img.shields.io/badge/Nestjs-blue.svg?style=flat-square&logo=nestjs&logoColor=white&color=red)
+![Socket.io](https://img.shields.io/badge/SocketIO-blue.svg?style=flat-square&logo=Socket.IO&logoColor=white&color=1e293b)
+![Redis](https://img.shields.io/badge/Redis-blue.svg?style=flat-square&logo=redis&logoColor=red&color=d1d5db)
+![Firebase](https://img.shields.io/badge/Firebase-blue.svg?style=flat-square&logo=firebase&logoColor=white&color=f59e0b)
+<br><br>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue.svg?style=flat-square&logo=RabbitMQ&logoColor=white&color=red)
+![docker](https://img.shields.io/badge/Docker-blue.svg?style=flat-square&logo=docker&logoColor=white&color=0284c7)
+<br><br>
+![SqlServer](https://img.shields.io/badge/SqlServer-blue.svg?style=flat-square&logo=microsoftsqlserver&logoColor=red&color=0ea5e9)
+![Mongodb](https://img.shields.io/badge/Mongodb-blue.svg?style=flat-square&logo=mongodb&logoColor=white&color=059669)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue.svg?style=flat-square&logo=PostgreSQL&logoColor=white&color=4338ca)
+<br><br>
+![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
