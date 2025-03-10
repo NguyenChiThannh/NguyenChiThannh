@@ -19,7 +19,7 @@ Programming languages
 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white&color=ea580c)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%23007ACC?style=flat-square&logo=go&logoColor=CDF5FD)
+![Go](https://img.shields.io/badge/Go-%23007ACC?style=flat-square&logo=go&logoColor=bae6fd)
 
 <strong>
 Front End
