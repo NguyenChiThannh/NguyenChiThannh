@@ -8,10 +8,6 @@ Hi there, I'm Thanh
 I am developer web 💻 !
 </h2> 
 
-<h3 align="center">
-  <a href="https://portfolio-seven-vert-79.vercel.app/" target="_blank">My Portfolio</a>
-</h3>
-
 <h2 >
 💼 Technical Skills
 </h2>
